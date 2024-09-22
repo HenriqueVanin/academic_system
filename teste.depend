@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1554061719 source:c:\users\henrique\desktop\teste\main.cpp
+	"stdafx.h"
+	"Principal.h"
+
+1554066813 source:c:\users\henrique\desktop\teste\pessoa.cpp
+	"stdafx.h"
+	"Pessoa.h"
+
+1553977824 c:\users\henrique\desktop\teste\pessoa.h
+
+1553982334 source:c:\users\henrique\desktop\teste\principal.cpp
+	"stdafx.h"
+	"Principal.h"
+
+1554062067 c:\users\henrique\desktop\teste\stdafx.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<vector>
+
+1554162787 c:\users\henrique\desktop\teste\principal.h
+	"Pessoa.h"
+	"Professor.h"
+	"Universidade.h"
+
+1554060544 source:c:\users\henrique\desktop\teste\universidade.cpp
+	"stdafx.h"
+	"Universidade.h"
+
+1554160022 c:\users\henrique\desktop\teste\universidade.h
+	<vector>
+	"Departamento.h"
+	"Curso.h"
+
+1554162454 source:c:\users\henrique\desktop\teste\departamento.cpp
+	"stdafx.h"
+	"Departamento.h"
+	"Universidade.h"
+	"Disciplina.h"
+
+1554162464 c:\users\henrique\desktop\teste\departamento.h
+
+1554059775 source:c:\users\henrique\desktop\teste\professor.cpp
+	"stdafx.h"
+	"Professor.h"
+
+1553981444 c:\users\henrique\desktop\teste\professor.h
+	"Pessoa.h"
+	"Universidade.h"
+
+1553980161 c:\users\henrique\desktop\teste\curso.h
+
+1554059487 source:c:\users\henrique\desktop\teste\aluno.cpp
+	"Aluno.h"
+
+1554059495 c:\users\henrique\desktop\teste\aluno.h
+	"Pessoa.h"
+	"Universidade.h"
+
+1553980459 source:c:\users\henrique\desktop\teste\curso.cpp
+	"stdafx.h"
+	"Curso.h"
+
+1554070335 source:c:\users\henrique\desktop\teste\vector.cpp
+	"stdafx.h"
+
+1554161959 c:\users\henrique\desktop\teste\disciplina.h
+	"Aluno.h"
+	"Departamento.h"
+
+1554161974 source:c:\users\henrique\desktop\teste\disciplina.cpp
+	"stdafx.h"
+	"Disciplina.h"
+
